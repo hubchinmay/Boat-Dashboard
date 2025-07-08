@@ -70,7 +70,7 @@ To build a comprehensive Power BI dashboard that:
 * Product Decisions: Focus on sub-categories with high returns and reviews
 * Forecasting Ready: Prepares the base for forecasting future trends based on sales and delivery patterns
 
-6. Screenshots
-### Dashboard Preview
+### 6. Screenshots
+### • Dashboard Preview
 * Snapshot 1 ([Boat-Dashboard/Snapshot of Dashboard 1.png at main · hubchinmay/Boat-Dashboard](https://github.com/hubchinmay/Boat-Dashboard/blob/main/Snapshot%20of%20Dashboard%201.png))
 * Snapshot 2 ([Boat-Dashboard/Snapshot of Dashboard 2.png at main · hubchinmay/Boat-Dashboard](https://github.com/hubchinmay/Boat-Dashboard/blob/main/Snapshot%20of%20Dashboard%202.png))
