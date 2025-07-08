@@ -4,7 +4,7 @@ boAt Insights: Sales & Order Performance Dashboard
 An interactive Power BI dashboard designed to monitor boAt's regional sales performance, customer segments, product categories, and order efficiency across multiple KPIs.
 
 
-### 2. Short Description / Purpose
+### 2. Short Description
 
 This dashboard provides a detailed overview of boAt's sales and order metrics, segmented by region, product category, segment, and payment modes. It helps in tracking profitability, delivery time, and key product performance to support data-driven business decisions.
 
@@ -28,7 +28,7 @@ Columns used include:
 Product ID, Product Name, Category, Sub-Category, Sales, Profit, Quantity, Region, City, Segment, Order Date, Payment Mode, and Average Delivery Time.
 
 
-### 5. Features / Highlights
+### 5. Highlights
 
 #### • Business Problem
 
